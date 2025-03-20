@@ -10,18 +10,20 @@
             "episode":[
               {
                 "id":"1",
-                "title":"Live",
+                "title":"Live News",
                 "date":"Feb-12, 25",
-                "views":"52790",
+                "views":"LIVE",
+				"type":"live",
                 "url":"https://vg-indiatvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-250556/main.m3u8?partner=internal",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/live.png"
               },
               {
                 "id":"2",
-                "title":"Live",
+                "title":"Live News",
                 "date":"Feb-12, 25",
-                "views":"52790",
+                "views":"LIVE",
+				"type":"live",
                 "url":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8?app_bundle=REPLACEME&app_name=REPLACEME&did=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&consent=REPLACEME&is_lat=REPLACEME&app_store_url=REPLACEME&coppa=REPLACEME",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/live.png"
@@ -31,6 +33,7 @@
                 "title":"Aaj ki Baat",
                 "date":"Feb-12, 24",
                 "views":"52790",
+				"type":"vod",
                 "url":"https://vod-indiatv.akamaized.net/63bd2161756d5f000872bc0b/2024/12/6vlgyt7r/6vlgyt7r_1280x720.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/akp-wallpaper.jpg"
@@ -44,7 +47,8 @@
                 "id":"1",
                 "title":"Sintel",
                 "date":"Feb-12, 25",
-                "views":"52790",
+                "views":"675438",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
@@ -54,6 +58,7 @@
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"vod",
                 "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.webp",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
@@ -63,27 +68,20 @@
                 "title":"Tears of Steel",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpg"
               },
               {
                 "id":"4",
                 "title":"Cosmos",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
-              },
-              {
-                "id":"3",
-                "title":"Big Buck Bunny",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
               }
             ]
           }
@@ -98,38 +96,32 @@
             "name":"Most Viewed",
             "episode":[
               {
-                "id":"2",
-                "title":"Tears of Steel",
+                "id":"1",
+                "title":"Sintel",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
               },
               {
                 "id":"4",
                 "title":"Cosmos",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
-              },
-              {
-                "id":"1",
-                "title":"Sintel",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
               },
               {
                 "id":"5",
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               },
@@ -138,9 +130,10 @@
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpg"
               }
             ]
           },
@@ -148,49 +141,44 @@
             "name":"Trending",
             "episode":[
               {
-                "id":"1",
-                "title":"Sintel",
+                "id":"2",
+                "title":"Charge",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/charge/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/charge.jpg"
               },
               {
                 "id":"5",
-                "title":"Spring",
+                "title":"Elephants Dream",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
-              },
-              {
-                "id":"2",
-                "title":"Tears of Steel",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/elephants/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/elephants.jpg"
               },
               {
                 "id":"4",
-                "title":"Cosmos",
+                "title":"Sprite Fight",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/sprite-fight/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sprite.jpg"
               },
               {
                 "id":"3",
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpg"
               }
             ]
           }
@@ -209,6 +197,7 @@
                 "title":"Sintel",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
@@ -218,7 +207,8 @@
                 "title":"Tears of Steel",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
               },
@@ -227,26 +217,19 @@
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
-              },
-              {
-                "id":"4",
-                "title":"Cosmos",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpg"
               },
               {
                 "id":"5",
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               }
             ]
@@ -259,6 +242,7 @@
                 "title":"Sintel",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
@@ -268,8 +252,9 @@
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               },
               {
@@ -277,27 +262,20 @@
                 "title":"Tears of Steel",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpg"
               },
               {
                 "id":"4",
                 "title":"Cosmos",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
-              },
-              {
-                "id":"3",
-                "title":"Big Buck Bunny",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
               }
             ]
           }
@@ -312,28 +290,21 @@
             "name":"Most Viewed",
             "episode":[
               {
-                "id":"2",
-                "title":"Tears of Steel",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
-              },
-              {
                 "id":"4",
                 "title":"Cosmos",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
               },
               {
                 "id":"1",
                 "title":"Sintel",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
@@ -343,8 +314,9 @@
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               },
               {
@@ -352,9 +324,10 @@
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpg"
               }
             ]
           },
@@ -366,6 +339,7 @@
                 "title":"Sintel",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
@@ -375,8 +349,9 @@
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               },
               {
@@ -384,25 +359,18 @@
                 "title":"Tears of Steel",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
-              },
-              {
-                "id":"4",
-                "title":"Cosmos",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
               },
               {
                 "id":"3",
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
               }
@@ -419,29 +387,22 @@
             "name":"Most Viewed",
             "episode":[
               {
-                "id":"1",
-                "title":"Sintel",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
-              },
-              {
                 "id":"2",
                 "title":"Tears of Steel",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpg"
               },
               {
                 "id":"3",
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
               },
@@ -450,17 +411,19 @@
                 "title":"Cosmos",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
               },
               {
                 "id":"5",
                 "title":"Spring",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               }
             ]
@@ -473,45 +436,40 @@
                 "title":"Sintel",
                 "date":"Feb-12, 25",
                 "views":"52790",
+				"type":"live",
                 "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
-              },
-              {
-                "id":"5",
-                "title":"Spring",
-                "date":"Feb-12, 25",
-                "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
               },
               {
                 "id":"2",
                 "title":"Tears of Steel",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpg"
               },
               {
                 "id":"4",
                 "title":"Cosmos",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
               },
               {
                 "id":"3",
                 "title":"Big Buck Bunny",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpg"
               }
             ]
           }
