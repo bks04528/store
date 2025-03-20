@@ -1,0 +1,69 @@
+{
+  "version":"0.1",
+  "channels":[
+    {
+      "id":"0",
+      "name":"News",
+      "title":"Live TV",
+      "type":"1",
+      "desc":"Watch current news, national events and more",
+	  "live_url":"",
+      "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.webp",
+      "icon":""
+	},
+	{
+      "id":"1",
+      "name":"Entertainment",
+      "title":"Watch movies, series and more",
+      "type":"1",
+      "desc":"Blender Open Movies, licensed under CC BY Blender Studio",
+	  "live_url":"",
+      "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+      "icon":""
+    },
+    {
+      "id":"3",
+      "name":"Science",
+      "title":"Unveil the mysteries of the universe, from distant galaxies to the secrets of black holes. Through stunning visuals and expert insights, explore the wonders of space and understanding of the cosmos",
+      "type":"1",
+      "desc":"XYZ Science Documentary Episodes",
+	  "live_url":"",
+      "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/space2-wallpaper.jpeg",
+      "icon":""
+    },
+    {
+      "id":"4",
+      "name":"Documentary",
+      "title":"Watch powerful real-world stories, bringing untold truths and diverse perspectives to life. Through compelling visuals and authentic narratives, they offer a deeper understanding of history, culture, and the human experience",
+      "type":"1",
+      "desc":"XYZ Documentary Production House",
+	  "live_url":"",
+      "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/documentary-wallpaper.jpg",
+      "icon":""
+    }
+  ],
+  "csai":{
+    "tags":[
+      {
+        "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Mid-Roll&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
+      },
+	  {
+        "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Mid-Roll-01&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
+      },
+	  {
+        "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Mid-Roll-02&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
+      },
+	  {
+        "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Mid-Roll-03&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
+      },
+	  {
+        "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Mid-Roll-05&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
+      },
+    ]
+  },
+  "ssai":{
+    "url":"",
+    "assetid":"",
+    "api_key":""
+  }
+}

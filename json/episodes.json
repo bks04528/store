@@ -1,0 +1,522 @@
+{
+  "version":"0.1",
+  "channels":[
+    {
+      "channel":{
+        "channelid":"0",
+        "episodes":[
+          {
+            "name":"News",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Live",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://vg-indiatvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-250556/main.m3u8?partner=internal",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/live.png"
+              },
+              {
+                "id":"2",
+                "title":"Live",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8?app_bundle=REPLACEME&app_name=REPLACEME&did=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&consent=REPLACEME&is_lat=REPLACEME&app_store_url=REPLACEME&coppa=REPLACEME",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/live.png"
+              },
+              {
+                "id":"3",
+                "title":"Aaj ki Baat",
+                "date":"Feb-12, 24",
+                "views":"52790",
+                "url":"https://vod-indiatv.akamaized.net/63bd2161756d5f000872bc0b/2024/12/6vlgyt7r/6vlgyt7r_1280x720.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/akp-wallpaper.jpg"
+              }
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+	{
+      "channel":{
+        "channelid":"1",
+        "episodes":[
+          {
+            "name":"Most Viewed",
+            "episode":[
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "channel":{
+        "channelid":"2",
+        "episodes":[
+          {
+            "name":"Most Viewed",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              }
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "channel":{
+        "channelid":"3",
+        "episodes":[
+          {
+            "name":"Most Viewed",
+            "episode":[
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "channel":{
+        "channelid":"4",
+        "episodes":[
+          {
+            "name":"Most Viewed",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              }
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron.webp"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpeg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
