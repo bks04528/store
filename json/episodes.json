@@ -105,6 +105,16 @@
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
               },
+			  {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpg"
+              },
               {
                 "id":"4",
                 "title":"Cosmos",
@@ -124,16 +134,6 @@
                 "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/altron-wallpaper.webp",
                 "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
-              },
-              {
-                "id":"3",
-                "title":"Big Buck Bunny",
-                "date":"Feb-12, 25",
-                "views":"52790",
-				"type":"vod",
-                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/bbb/master.m3u8",
-                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/bbb.jpg"
               }
             ]
           },
@@ -168,7 +168,7 @@
 				"type":"vod",
                 "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/sprite-fight/master.m3u8",
                 "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
-                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sprite.jpg"
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sprite-fight.jpg"
               },
               {
                 "id":"3",
