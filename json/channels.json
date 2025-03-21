@@ -60,7 +60,7 @@
         "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Mid-Roll-05&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
       },
     ],
-	"vod":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/vast/vod_ads.xml"
+	"vod":"https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/vmap_ad_samples&sz=640x480&cust_params=sample_ar%3Dpremidpostoptimizedpodbumper&ciu_szs=300x250&gdfp_req=1&ad_rule=1&output=vmap&unviewed_position_start=1&env=vp&impl=s&cmsid=496&vid=short_onecue&correlator="
   },
   "ssai":{
     "url":"",
