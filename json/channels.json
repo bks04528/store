@@ -40,17 +40,7 @@
 	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/documentary-wallpaper.jpg",
       "icon":""
-    },
-	{
-      "id":"5",
-      "name":"Saanvi",
-      "title":"Diksha Prince",
-      "type":"1",
-      "desc":"Watch Family Show",
-	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.webp",
-      "icon":""
-	}
+    }
   ],
   "csai":{
     "tags":[
