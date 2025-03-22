@@ -3,6 +3,93 @@
   "channels":[
     {
       "channel":{
+        "channelid":"5",
+        "episodes":[
+          {
+            "name":"News",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Live News",
+                "date":"Feb-12, 25",
+                "views":"LIVE",
+				"type":"live",
+                "url":"https://vg-indiatvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-250556/main.m3u8?partner=internal",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/live.png"
+              },
+              {
+                "id":"2",
+                "title":"Live News",
+                "date":"Feb-12, 25",
+                "views":"LIVE",
+				"type":"live",
+                "url":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8?app_bundle=REPLACEME&app_name=REPLACEME&did=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&consent=REPLACEME&is_lat=REPLACEME&app_store_url=REPLACEME&coppa=REPLACEME",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/news-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/live.png"
+              },
+              {
+                "id":"3",
+                "title":"Aaj ki Baat",
+                "date":"Feb-12, 24",
+                "views":"52790",
+				"type":"vod",
+                "url":"https://vod-indiatv.akamaized.net/63bd2161756d5f000872bc0b/2024/12/6vlgyt7r/6vlgyt7r_1280x720.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/akp-wallpaper.jpg"
+              }
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"675438",
+				"type":"live",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Spring",
+                "date":"Feb-12, 25",
+                "views":"52790",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/spring/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/spring.jpg"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/tos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/tos.jpeg"
+              },
+              {
+                "id":"4",
+                "title":"Cosmos",
+                "date":"Feb-12, 25",
+                "views":"52790",
+				"type":"vod",
+                "url":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/media/BlenderStudio/cosmos/master.m3u8",
+                "bg":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/blender-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/bks04528/store/refs/heads/main/images/cosmos.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "channel":{
         "channelid":"0",
         "episodes":[
           {
